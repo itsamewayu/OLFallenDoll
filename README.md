@@ -15,3 +15,11 @@ IMPORTANT INFO
 - Please don't report bugs on previous versions such as non-demo 0.34 or 1.31b from Fallen Doll: Origin, or issues that arise from unofficial copies of the game.
 - Chinese, English are both welcome.
 - Cat gifs are appreciated, but just not here. Thanks in advance!
+
+Note: when adding a bug reports to the GitHub please make sure to add a tag like this:
+
+[model] mesh clipping in the x outfit
+[animation] weird jittering in the x pose
+[UI] "glassic" mode instead of classic
+and so on
+or add tags to the individual bugs so it's easier to identify
