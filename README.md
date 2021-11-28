@@ -18,7 +18,8 @@ IMPORTANT INFO
 
 Note: when adding a bug reports to the GitHub please make sure to add a tag like this:
 
--[model] mesh clipping in the x outfit
--[animation] weird jittering in the x pose
--[UI] "glassic" mode instead of classic
--or add tags to the individual bugs so it's easier to identify
+- [model] mesh clipping in the x outfit 
+- [animation] weird jittering in the x pose 
+- [UI] "glassic" mode instead of classic
+
+or add tags to the individual bugs so it's easier to identify.
