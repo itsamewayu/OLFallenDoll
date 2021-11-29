@@ -27,6 +27,7 @@ or add tags to the individual bugs so it's easier to identify.
 
 
 Chinese Version:
+
 **在报告问题前你需要知道的有：**
 
 - 在使用“New Issue”之前，使用搜索功能搜索您的问题是否已被报告。如果用中文报告，请增加一个英文标题，方便检索。
