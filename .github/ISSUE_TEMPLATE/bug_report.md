@@ -33,7 +33,7 @@ If applicable, add screenshots to help explain your problem.
 
 *If your game crashed, remember to upload the dmp file with your issue.
 
-It's located in C:\Users(YOUR USER ID)\AppData\Local\FallenDoll\Saved
+It's located in C:\Users\ (USER ID) \AppData\Local\Paralogue
 
 **Additional context**
 Add any other context about the problem here.
