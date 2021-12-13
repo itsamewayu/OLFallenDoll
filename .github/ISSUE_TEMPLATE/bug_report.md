@@ -31,5 +31,9 @@ If applicable, add screenshots to help explain your problem.
  - Graphics Card:[e.g. RTX 2070s]
  - Memory:[e.g. 16GB]
 
+*If your game crashed, remember to upload the dmp file with your issue.
+
+It's located in C:\Users(YOUR USER ID)\AppData\Local\FallenDoll\Saved
+
 **Additional context**
 Add any other context about the problem here.
