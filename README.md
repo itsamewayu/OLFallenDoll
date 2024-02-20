@@ -9,6 +9,8 @@ ISSUE REPORTING
 3. Click on the "New Issue" button, which is green to the top right of the search bar.
 4. Select which Issue type you want, for bugs it'll be Bug Report and so on.
 4. The issue entry field will show up. Please submit photos, descriptions, stuff that you think might be useful info.
+5. Please do not use the github for any individual issues related to your specific account. Go to the Operation Lovecraft Discord: https://discord.gg/hYgt5sjS and create a #Support-ticket.
+   If you do not see the Support Ticket channel, go to #read-me-first and read rule 15 very carefully to gain access to the rest of the channels.
 
 IMPORTANT INFO
 - Check to see if your issue has been reported before using the search bar to the left of the green "New Issue" button.
