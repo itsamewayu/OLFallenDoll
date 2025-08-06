@@ -30,6 +30,8 @@ or add tags to the individual bugs so it's easier to identify.
 
 Chinese Version:
 
+请勿使用 Github 解决与您特定帐户相关的任何个别问题。请前往 Operation Lovecraft Discord：(https://discord.gg/projecthelius) 并创建 #support-ticket。如果您没有看到支持工单频道，请前往 #read-me-first 并仔细阅读规则 15，以获取访问其他频道的权限。
+
 **在报告问题前你需要知道的有：**
 
 - 在使用“New Issue”之前，使用搜索功能搜索您的问题是否已被报告。如果用中文报告，请增加一个英文标题，方便检索。
