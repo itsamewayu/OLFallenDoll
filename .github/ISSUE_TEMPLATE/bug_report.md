@@ -36,4 +36,4 @@ If applicable, add screenshots to help explain your problem.
 It's located in C:\Users\ (USER ID) \AppData\Local\Paralogue
 
 **Additional context**
-Add any other context about the problem here.
+Please note: If you have paid for a membership or subscription and have not received your NEP or in-game rewards, please ensure that you have not canceled your subscription before the in-game verification process completes (which can take about an hour). If you canceled early, rewards may not be granted. If you believe this is an error or you have other issues such as missing bonus coins or subscription errors, please provide detailed information here so the support team can assist you better.
